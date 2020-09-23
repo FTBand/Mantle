@@ -8,8 +8,8 @@
 
 #import "NSError+MTLModelException.h"
 #import "MTLModel.h"
-#import <Mantle/EXTRuntimeExtensions.h>
-#import <Mantle/EXTScope.h>
+#import <extobjc/EXTRuntimeExtensions.h>
+#import <extobjc/EXTScope.h>
 #import "MTLReflection.h"
 #import <objc/runtime.h>
 
